@@ -15,9 +15,10 @@ What things you need to install and how to install them
 ```
 pip install face_recognition
 ```
-```
+
 # Most Recent One (Suggested)
 # Release Version
+```
 pip install keras_vggface
 ```
 ```
@@ -27,11 +28,11 @@ sudo pip install mtcnn
 ### Adding a face to the database
 
 
-```
 To run 
 ```
 python add_new_face.py
 ```
+
 ### Running the recognizer
 
 ```
@@ -40,7 +41,6 @@ python main.py
 ### Deleting a face from the database
 
 
-```
 To run 
 ```
 python delete_face.py
